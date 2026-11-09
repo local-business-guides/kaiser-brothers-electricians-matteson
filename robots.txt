@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/kaiser-brothers-electricians-matteson/sitemap.xml
+Sitemap: https://local-business-guides.github.io/kaiser-brothers-electricians-matteson/news-sitemap.xml
